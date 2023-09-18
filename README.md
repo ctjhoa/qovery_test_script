@@ -1,5 +1,6 @@
 # test_script
 
+foobar
 
 build:
 docker build -t pythonimage .
